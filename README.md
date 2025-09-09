@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+hi my name is Damisola Talabi.i am a double degree exchange student form Dublin.
 <!--
 **damisolatalabi/damisolatalabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
